@@ -303,8 +303,8 @@ export default function PowderCoatingWebsite() {
                   />
                 </div>
                 <CardContent className="p-4">
-                  <h3 className="font-semibold mb-2">Bike Parts</h3>
-                  <p className="text-sm text-muted-foreground">Heavy-duty uniform black coating for maximum durability</p>
+                  <h3 className="font-semibold mb-2">Motorbike Parts</h3>
+                  <p className="text-sm text-muted-foreground">Custom Ice Blue coating for motocross parts and accessories</p>
                 </CardContent>
             </Card>
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
@@ -399,7 +399,7 @@ export default function PowderCoatingWebsite() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="/gallery10.jpg?height=400&width=500"
                 alt="Powder coating benefits"
                 width={500}
                 height={400}
